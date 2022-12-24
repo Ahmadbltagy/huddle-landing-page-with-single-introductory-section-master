@@ -31,12 +31,12 @@ body {
 .heading {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 .info {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
-  font-size: 0.84rem;
+  font-size: 1.1rem;
 }
 .social-icons {
   grid-column: 3;
